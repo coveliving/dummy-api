@@ -2,7 +2,7 @@
     "listings": [
         {
             "id": 1,
-            "building_id": 1,
+            "buildingId": 1,
             "name": "Bedroom with private bathroom",
             "bathroom": "private",
             "bed": "queen",
@@ -15,7 +15,7 @@
         },
         {
             "id": 2,
-            "building_id": 2,
+            "buildingId": 2,
             "name": "Bedroom with shared bathroom",
             "bathroom": "shared",
             "bed": "double",
@@ -28,7 +28,7 @@
         },
         {
             "id": 3,
-            "building_id": 3,
+            "buildingId": 3,
             "name": "Studio",
             "bathroom": "private",
             "bed": "queen",
@@ -41,7 +41,7 @@
         },
         {
             "id": 4,
-            "building_id": 3,
+            "buildingId": 3,
             "name": "Studio",
             "bathroom": "private",
             "bed": "king",
