@@ -1,0 +1,70 @@
+{
+    "listings": [
+        {
+            "id": 1,
+            "building_id": 1,
+            "name": "Bedroom with private bathroom",
+            "bathroom": "private",
+            "bed": "queen",
+            "price": 2600,
+            "discount": {
+                "percent": null,
+                "amount": null
+            },
+            "photo": "https://i.imgur.com/vJx3c2S.jpg"
+        },
+        {
+            "id": 2,
+            "building_id": 2,
+            "name": "Bedroom with shared bathroom",
+            "bathroom": "shared",
+            "bed": "double",
+            "price": 1800,
+            "discount": {
+                "percent": 10,
+                "amount": null
+            },
+            "photo": "https://i.imgur.com/ihGrYiv.jpg"
+        },
+        {
+            "id": 3,
+            "building_id": 3,
+            "name": "Studio",
+            "bathroom": "private",
+            "bed": "queen",
+            "price": 3000,
+            "discount": {
+                "percent": null,
+                "amount": 300
+            },
+            "photo": "https://i.imgur.com/t6DcCjK.jpg"
+        },
+        {
+            "id": 4,
+            "building_id": 3,
+            "name": "Studio",
+            "bathroom": "private",
+            "bed": "king",
+            "price": 3000,
+            "discount": {
+                "percent": null,
+                "amount": 250
+            },
+            "photo": "https://i.imgur.com/b77iUDt.jpg"
+        }
+    ],
+    "buildings": [
+        {
+            "id": 1,
+            "name": "Nuovo"
+        },
+        {
+            "id": 2,
+            "name": "The Alcove"
+        },
+        {
+            "id": 3,
+            "name": "52 Foch Road"
+        }
+    ]
+}
