@@ -51,20 +51,59 @@
                 "amount": 250
             },
             "photo": "https://i.imgur.com/b77iUDt.jpg"
+        },
+        {
+            "id": 5,
+            "buildingId": 4,
+            "name": "Bedroom with shared bathroom",
+            "bathroom": "shared",
+            "bed": "double",
+            "price": 2150,
+            "discount": {
+                "percent": null,
+                "amount": null
+            },
+            "photo": "https://i.imgur.com/nd3Ey6n.jpg"
+        },
+        {
+            "id": 6,
+            "buildingId": 4,
+            "name": "Studio",
+            "bathroom": "private",
+            "bed": "queen",
+            "price": 2750,
+            "discount": {
+                "percent": null,
+                "amount": null
+            },
+            "photo": "https://i.imgur.com/aTim7ap.jpg"
         }
     ],
     "buildings": [
         {
             "id": 1,
-            "name": "Nuovo"
+            "name": "Nuovo",
+            "area": "Toa Payoh"
         },
         {
             "id": 2,
-            "name": "The Alcove"
+            "name": "The Alcove",
+            "area": "Geylang & Joo Chiat"
         },
         {
             "id": 3,
-            "name": "52 Foch Road"
+            "name": "52 Foch Road",
+            "area": "Little India & Jalan Besar"
+        },
+        {
+            "id": 4,
+            "name": "The Plaza",
+            "area": "Little India & Jalan Besar"
+        },
+        {
+            "id": 5,
+            "name": "2 Ruby Lane",
+            "area": "Toa Payoh"
         }
     ]
 }
