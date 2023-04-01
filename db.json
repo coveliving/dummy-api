@@ -67,7 +67,7 @@
         },
         {
             "id": 6,
-            "buildingId": 4,
+            "buildingId": 5,
             "name": "Studio",
             "bathroom": "private",
             "bed": "queen",
