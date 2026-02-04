@@ -2,8 +2,8 @@
     "tenants": [
         {
             "id": 1,
-            "first_name": "John",
-            "last_name": "Smith",
+            "firstName": "John",
+            "lastName": "Smith",
             "gender": "male",
             "birthday": "1995-03-15",
             "citizenship": "USA",
@@ -11,8 +11,8 @@
         },
         {
             "id": 2,
-            "first_name": "Emma",
-            "last_name": "Johnson",
+            "firstName": "Emma",
+            "lastName": "Johnson",
             "gender": "female",
             "birthday": "1998-07-22",
             "citizenship": "UK",
@@ -20,8 +20,8 @@
         },
         {
             "id": 3,
-            "first_name": "Michael",
-            "last_name": "Chen",
+            "firstName": "Michael",
+            "lastName": "Chen",
             "gender": "male",
             "birthday": "1992-11-08",
             "citizenship": "Singapore",
@@ -29,8 +29,8 @@
         },
         {
             "id": 4,
-            "first_name": "Sophie",
-            "last_name": "Martinez",
+            "firstName": "Sophie",
+            "lastName": "Martinez",
             "gender": "female",
             "birthday": "1990-05-30",
             "citizenship": "Spain",
@@ -38,8 +38,8 @@
         },
         {
             "id": 5,
-            "first_name": "David",
-            "last_name": "Wilson",
+            "firstName": "David",
+            "lastName": "Wilson",
             "gender": "male",
             "birthday": "1988-09-12",
             "citizenship": "Australia",
@@ -47,8 +47,8 @@
         },
         {
             "id": 6,
-            "first_name": "Sarah",
-            "last_name": "Lee",
+            "firstName": "Sarah",
+            "lastName": "Lee",
             "gender": "female",
             "birthday": "1996-01-25",
             "citizenship": "South Korea",
@@ -56,8 +56,8 @@
         },
         {
             "id": 7,
-            "first_name": "James",
-            "last_name": "Anderson",
+            "firstName": "James",
+            "lastName": "Anderson",
             "gender": "male",
             "birthday": "1994-12-03",
             "citizenship": "Canada",
@@ -65,8 +65,8 @@
         },
         {
             "id": 8,
-            "first_name": "Maria",
-            "last_name": "Garcia",
+            "firstName": "Maria",
+            "lastName": "Garcia",
             "gender": "female",
             "birthday": "1991-08-17",
             "citizenship": "Mexico",
@@ -74,8 +74,8 @@
         },
         {
             "id": 9,
-            "first_name": "Robert",
-            "last_name": "Taylor",
+            "firstName": "Robert",
+            "lastName": "Taylor",
             "gender": "male",
             "birthday": "1989-04-21",
             "citizenship": "USA",
@@ -83,8 +83,8 @@
         },
         {
             "id": 10,
-            "first_name": "Lisa",
-            "last_name": "Tan",
+            "firstName": "Lisa",
+            "lastName": "Tan",
             "gender": "female",
             "birthday": "1997-10-14",
             "citizenship": "Singapore",
@@ -201,83 +201,83 @@
     "bookings": [
         {
             "id": 1,
-            "listing_id": 3,
-            "tenant_id": 1,
-            "booking_date": "2024-06-15",
-            "start_date": "2024-07-01",
-            "end_date": "2024-09-30"
+            "listingId": 3,
+            "tenantId": 1,
+            "bookingDate": "2024-06-15",
+            "startDate": "2024-07-01",
+            "endDate": "2024-09-30"
         },
         {
             "id": 2,
-            "listing_id": 5,
-            "tenant_id": 2,
-            "booking_date": "2024-06-20",
-            "start_date": "2024-08-01",
-            "end_date": "2025-01-31"
+            "listingId": 5,
+            "tenantId": 2,
+            "bookingDate": "2024-06-20",
+            "startDate": "2024-08-01",
+            "endDate": "2025-01-31"
         },
         {
             "id": 3,
-            "listing_id": 1,
-            "tenant_id": 3,
-            "booking_date": "2024-06-22",
-            "start_date": "2024-09-01",
-            "end_date": "2025-02-28"
+            "listingId": 1,
+            "tenantId": 3,
+            "bookingDate": "2024-06-22",
+            "startDate": "2024-09-01",
+            "endDate": "2025-02-28"
         },
         {
             "id": 4,
-            "listing_id": 2,
-            "tenant_id": 4,
-            "booking_date": "2024-06-25",
-            "start_date": "2024-07-01",
-            "end_date": "2025-07-31"
+            "listingId": 2,
+            "tenantId": 4,
+            "bookingDate": "2024-06-25",
+            "startDate": "2024-07-01",
+            "endDate": "2025-07-31"
         },
         {
             "id": 5,
-            "listing_id": 6,
-            "tenant_id": 5,
-            "booking_date": "2024-09-28",
-            "start_date": "2024-11-01",
-            "end_date": "2025-04-30"
+            "listingId": 6,
+            "tenantId": 5,
+            "bookingDate": "2024-09-28",
+            "startDate": "2024-11-01",
+            "endDate": "2025-04-30"
         },
         {
             "id": 6,
-            "listing_id": 3,
-            "tenant_id": 6,
-            "booking_date": "2024-11-15",
-            "start_date": "2024-12-01",
-            "end_date": "2025-02-28"
+            "listingId": 3,
+            "tenantId": 6,
+            "bookingDate": "2024-11-15",
+            "startDate": "2024-12-01",
+            "endDate": "2025-02-28"
         },
         {
             "id": 7,
-            "listing_id": 4,
-            "tenant_id": 7,
-            "booking_date": "2024-09-30",
-            "start_date": "2024-12-01",
-            "end_date": "2025-05-31"
+            "listingId": 4,
+            "tenantId": 7,
+            "bookingDate": "2024-09-30",
+            "startDate": "2024-12-01",
+            "endDate": "2025-05-31"
         },
         {
             "id": 8,
-            "listing_id": 3,
-            "tenant_id": 8,
-            "booking_date": "2024-09-19",
-            "start_date": "2024-10-01",
-            "end_date": "2024-11-30"
+            "listingId": 3,
+            "tenantId": 8,
+            "bookingDate": "2024-09-19",
+            "startDate": "2024-10-01",
+            "endDate": "2024-11-30"
         },
         {
             "id": 9,
-            "listing_id": 1,
-            "tenant_id": 9,
-            "booking_date": "2025-01-15",
-            "start_date": "2025-03-01",
-            "end_date": "2025-05-31"
+            "listingId": 1,
+            "tenantId": 9,
+            "bookingDate": "2025-01-15",
+            "startDate": "2025-03-01",
+            "endDate": "2025-05-31"
         },
         {
             "id": 10,
-            "listing_id": 5,
-            "tenant_id": 10,
-            "booking_date": "2025-01-10",
-            "start_date": "2025-02-01",
-            "end_date": "2025-04-30"
+            "listingId": 5,
+            "tenantId": 10,
+            "bookingDate": "2025-01-10",
+            "startDate": "2025-02-01",
+            "endDate": "2025-04-30"
         }
     ]
 }
